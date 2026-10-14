@@ -29,11 +29,11 @@ postman/      -> Postman collection and environment (API tests)
 
 ## UI Automation (https://www.saucedemo.com/)
 
-| Scenario | Description |
+ Scenario  Description 
 
-| Q1 | locked_out_user login and error message verification |
-| Q2 | standard_user: reset state, add 3 items, verify name and total, order success, reset, logout |
-| Q3 | performance_glitch_user: reset state, sort Z-A, add first item, verify, order success, reset, logout |
+ Q1. locked_out_user login and error message verification 
+ Q2. standard_user: reset state, add 3 items, verify name and total, order success, reset, logout 
+ Q3. performance_glitch_user: reset state, sort Z-A, add first item, verify, order success, reset, logout 
 
 ### Run each scenario separately
 ```bash
