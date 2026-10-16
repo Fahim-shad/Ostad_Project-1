@@ -7,9 +7,7 @@ UI automation (Playwright + Page Object Model)
 - Playwright HTML Report
 - Postman + Newman (API automation)
 
-## Prerequisites
-- Node.js v18 or later (https://nodejs.org)
-- Git
+
 
 ## Setup
 ```bash
